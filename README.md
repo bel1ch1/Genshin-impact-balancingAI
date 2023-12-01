@@ -1,1 +1,1 @@
-# Genshin-impact-balancingAI
+# Genshin-Impact-Balancing-StatsAI
